@@ -7,7 +7,7 @@ from bokeh.sampledata.stocks import AAPL, FB, GOOG, IBM, MSFT
 
 
 # the file to save the model
-output_file("te.html")
+#output_file("te.html")
    
 # instantiating the figure object
 graph = figure(x_axis_type = "datetime", title = "Stock Closing Prices")
