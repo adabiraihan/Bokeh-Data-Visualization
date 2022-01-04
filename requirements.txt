@@ -1,5 +1,1 @@
-import numpy
-import bokeh
-from bokeh.plotting import figure, output_file, show
-bokeh.sampledata.download()
-from bokeh.sampledata.stocks import AAPL, FB, GOOG, IBM, MSFT
+
